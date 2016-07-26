@@ -1,0 +1,28 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Data makers:
+    	Trey 	@trey
+    	Phil 	@philbarbato
+    	Jason 	@super_structure
+    	Daniel 	@ploafmaster
+    	cale 	@calem
+
+    Codez:
+    	Cale 	(Frontend)
+    	Trey 	(Data backend)
+
+    http://jawgrind.com/
+
+# THANKS
+
+    The Gorn
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
+
+    d3.js
